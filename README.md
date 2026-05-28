@@ -37,3 +37,38 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 <img src="https://skillicons.dev/icons?i=vscode" width="55" />
 
 </div>
+
+# 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ✧★
+
+➜ 𝘛𝘰 𝘉𝘦 𝘈𝘥𝘥𝘦𝘥...
+
+Currently building and experimenting with:
+- AI/ML Projects
+- Automation Tools
+- Smart Systems
+- Developer Utilities
+- Creative Software Ideas
+
+══════════════════════════════════
+
+# 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 ✧★
+
+➜ 𝘜𝘱𝘥𝘢𝘵𝘪𝘯𝘨 𝘚𝘰𝘰𝘯...
+
+══════════════════════════════════
+
+# 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ✧★
+
+- AI & Machine Learning  
+- MLops & Intelligent Systems  
+- Robotics & Embedded Systems  
+- Full-Stack Development  
+- Cloud & Automation  
+
+══════════════════════════════════
+
+<div align="center">
+
+⚡ 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 • 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 • 𝑬𝒙𝒑𝒆𝒓𝒊𝒎𝒆𝒏𝒕𝒊𝒏𝒈 ⚡
+
+</div>
