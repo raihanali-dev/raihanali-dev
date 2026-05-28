@@ -22,3 +22,18 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 ➜ Building impactful software with clean design & futuristic thinking  
 ➜ Interested in Robotics, Automation & next-gen technology  
 ➜ Turning ideas into projects — one commit at a time
+
+# 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ✧★
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java" width="55" />
+<img src="https://skillicons.dev/icons?i=python" width="55" />
+<img src="https://skillicons.dev/icons?i=cpp" width="55" />
+<img src="https://skillicons.dev/icons?i=js" width="55" />
+<img src="https://skillicons.dev/icons?i=git" width="55" />
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+<img src="https://skillicons.dev/icons?i=css" width="55" />
+<img src="https://skillicons.dev/icons?i=vscode" width="55" />
+
+</div>
