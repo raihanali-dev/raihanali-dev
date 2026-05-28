@@ -38,7 +38,7 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 
 </div>
 
-# 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ✧★
+# ✎ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
 
 ➜ 𝘛𝘰 𝘉𝘦 𝘈𝘥𝘥𝘦𝘥...
 
@@ -51,13 +51,13 @@ Currently building and experimenting with:
 
 ══════════════════════════════════
 
-# 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 ✧★
+# ✎ 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 ᯓ★
 
 ➜ 𝘜𝘱𝘥𝘢𝘵𝘪𝘯𝘨 𝘚𝘰𝘰𝘯...
 
 ══════════════════════════════════
 
-# 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ✧★
+# ✎ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
 
 - AI & Machine Learning  
 - MLops & Intelligent Systems  
