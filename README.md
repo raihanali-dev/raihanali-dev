@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/raihanali-dev/raihanali-dev/blob/main/welcome-banner.jpg.png)
+![Welcome Banner](https://github.com/raihanali-dev/raihanali-dev/blob/main/ab29e1e5-6b27-4e4f-971b-c552ad31e794.png)
 <div align="center">
 
 ## *****●・○・●・○・● AI • Programming • MLops • Builder ●・○・●・○・●*****
