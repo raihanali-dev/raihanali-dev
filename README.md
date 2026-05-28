@@ -9,6 +9,8 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 
 </div>
 
+══════════════════════════════════
+
 # ✎ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
 
 ➜ 𝘸𝘩𝘪𝘭𝘦(𝘢𝘭𝘪𝘷𝘦){  
@@ -22,6 +24,8 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 ➜ Building impactful software with clean design & futuristic thinking  
 ➜ Interested in Robotics, Automation & next-gen technology  
 ➜ Turning ideas into projects — one commit at a time
+
+══════════════════════════════════
 
 # ✎ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
 
@@ -37,6 +41,8 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 <img src="https://skillicons.dev/icons?i=vscode" width="55" />
 
 </div>
+
+══════════════════════════════════
 
 # ✎ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
 
