@@ -1,7 +1,7 @@
 ![Welcome Banner](https://github.com/raihanali-dev/raihanali-dev/blob/main/welcome-banner.jpg.png)
 <div align="center">
 
-## *****●・○・●・○・● AI • Robotics • MLops • Builder ●・○・●・○・●*****
+## *****●・○・●・○・● AI • Programming • MLops • Builder ●・○・●・○・●*****
 
 Building projects at the intersection of AI, MLops, and impactful engineering.
 
