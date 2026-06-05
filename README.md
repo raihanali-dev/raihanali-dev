@@ -30,7 +30,7 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 # ✎ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,postman,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,tensorflow,pytorch" />
 </div>
 
 ═════════════════════════════════════════════════════════════════════════════════════
