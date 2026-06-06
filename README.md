@@ -52,13 +52,6 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 
 🔹 Personal Portfolio & Web Development Experiments
 
-Currently exploring:
-• AI/ML Applications
-• Full-Stack Development
-• Automation Tools
-• Smart Systems
-• Developer Utilities
-
 
 ═════════════════════════════════════════════════════════════════════════════════════
 <hr>
