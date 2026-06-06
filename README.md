@@ -35,16 +35,30 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 
 ═════════════════════════════════════════════════════════════════════════════════════
 
-# ✎ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
+# ✎ Featured 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
 
-➜ 𝘛𝘰 𝘉𝘦 𝘈𝘥𝘥𝘦𝘥...
+→ Showcasing projects that blend creativity, automation, and practical problem-solving.
 
-Currently building and experimenting with:
-- AI/ML Projects
-- Automation Tools
-- Smart Systems
-- Developer Utilities
-- Creative Software Ideas
+
+🔹 AttendWise — Smart Attendance Management System
+
+🔹 StudySphere AI — Intelligent Study Assistant
+
+🔹 Resume Generator — Create professional resumes in PDF & Word formats
+
+🔹 Sakura Theme Letter — Interactive themed web experience
+
+🔹 DB Connect — Database connectivity and management utilities
+
+🔹 Personal Portfolio & Web Development Experiments
+
+Currently exploring:
+• AI/ML Applications
+• Full-Stack Development
+• Automation Tools
+• Smart Systems
+• Developer Utilities
+
 
 ═════════════════════════════════════════════════════════════════════════════════════
 <hr>
