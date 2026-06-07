@@ -11,11 +11,6 @@ Building projects at the intersection of AI, MLops, and impactful engineering.
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24,30"/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4500&pause=2000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Late-night+ideas%2C+early-morning+bugs.;Turning+ideas+into+code%2C+one+bug+at+a+time." />
-</p>
-
 Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb/) • [Email](mailto:raihanali73377@gmail.com) • Exploring new horizons
 
 </div>
