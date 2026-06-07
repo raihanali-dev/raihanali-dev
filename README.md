@@ -170,7 +170,7 @@ width="100%"
 
 </div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=D3D3D3&center=true&vCenter=true&multiline=true&width=600&lines=Always+open+to+collaboration...;Projects...;Tech+discussions..." alt="Animated message"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=D3D3D3&center=true&vCenter=true&multiline=false&width=600&lines=Feel+free+to+connect;Always+open+for+collaboration,projects,tech+discussions" alt="Feel free to connect animation" />
 
 </div>
 
