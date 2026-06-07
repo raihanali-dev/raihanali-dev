@@ -129,32 +129,37 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 </p>
 
 ═════════════════════════════════════════════════════════════════════════════════════
-<div align="center">
+<!-- CONNECT WITH ME -->
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=gradient&customColorList=0,2,3,5,20,24,30&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff"/>
+</p>
 
-<img width="15"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  </a>
+  
+  <a href="https://github.com/raihanali-dev">
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
+  </a>
+  
+  <a href="https://instagram.com/re1cor3">
+    <img src="https://skillicons.dev/icons?i=instagram" height="55" />
+  </a>
+  
+  <a href="https://discord.com/users/re1cor3">
+    <img src="https://skillicons.dev/icons?i=discord" height="55" />
+  </a>
+</p>
 
-<a href="YOUR_GITHUB_URL">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
+<p align="center">
+  💬 Always open to collaboration, projects, and tech discussions.
+</p>
 
-<img width="15"/>
-
-<a href="https://instagram.com/re1cor3">
-  <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-</a>
-
-<img width="15"/>
-
-<a href="https://discord.com/users/re1cor3">
-  <img src="https://skillicons.dev/icons?i=discord" height="55"/>
-</a>
-
-</div>
-
+<p align="center">
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=0,2,3,5,20,24,30&section=footer"/>
+</p>
 ═════════════════════════════════════════════════════════════════════════════════════
 
 # ✎ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
