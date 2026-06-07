@@ -7,7 +7,7 @@ Building projects at the intersection of AI, MLops, and impactful engineering.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Late-night+ideas%2C+early-morning+bugs.;Full+Stack+Web+Developer.;MLops+Enthusiast.;AI+%E2%80%A2+ML+%E2%80%A2+Open+Source." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=60&lines=MLOps+%7C+LLMs+%7C+Scalable+Systems;Cloud+Infra+%7C+AI+Deployment+%7C+Open+Source;Generative+AI+%7C+Data+Engineering+%7C+RDBMS;NoSQL+%7C+Vector+DBs+%7C+Data+Lakes" alt="Typing SVG" />
 </p>
 
 
