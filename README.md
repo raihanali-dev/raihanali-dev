@@ -11,6 +11,8 @@ Building projects at the intersection of AI, MLops, and impactful engineering.
 </p>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24,30"/>
+
 Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb/) • [Email](mailto:raihanali73377@gmail.com) • Exploring new horizons
 
 </div>
