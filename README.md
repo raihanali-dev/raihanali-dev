@@ -169,9 +169,10 @@ width="100%"
 </a>
 
 </div>
-<p align="center">
-  💬 Always open to collaboration, projects, and tech discussions.
-</p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=D3D3D3&center=true&vCenter=true&multiline=true&width=600&lines=Always+open+to+collaboration...;Projects...;Tech+discussions..." alt="Animated message"/>
+
+</div>
 
 <p align="center">
   <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=0,2,3,5,20,24,30&section=footer"/>
