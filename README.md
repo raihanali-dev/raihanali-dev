@@ -110,25 +110,28 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 
 ═════════════════════════════════════════════════════════════════════════════════════
 
-```html
-<!-- CODE PLAYGROUND -->
+# ✎ CODE PLAYGROUND ᯓ★
+
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,20,24,30&section=header&text=Code%20Playground&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24,30&section=header&text=🎮%20Code%20Playground&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Late-night+ideas%2C+early-morning+bugs.;Turning+ideas+into+code%2C+one+bug+at+a+time.;Powered+by+caffeine+and+curiosity.;Debugging+is+my+cardio.;404%3A+Sleep+Not+Found.;Building+cool+things+one+commit+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=900&lines=Late-night+ideas%2C+early-morning+bugs.;Turning+ideas+into+code%2C+one+bug+at+a+time.;Powered+by+caffeine+and+curiosity.;Debugging+is+my+cardio.;404%3A+Sleep+Not+Found.;Building+cool+things+one+commit+at+a+time." />
 </p>
 
 <p align="center">
-  ✨ 🎮 ⚡ 🚀 💻 ☕ 🧠 🔥 🐛 ✨
+  ✨ ⚡ 🚀 💻 ☕ 🧠 🔥 🎮 🌙 ✨
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanali-dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=footer"/>
 </p>
-```
 
 ═════════════════════════════════════════════════════════════════════════════════════
 
