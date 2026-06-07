@@ -109,23 +109,29 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 
 ═════════════════════════════════════════════════════════════════════════════════════
 
-<!-- ================= GITHUB ANALYTICS ================= -->
-
 # ✎  📊 GitHub Analytics ᯓ★
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raihanali-dev&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanali-dev&theme=radical&hide_border=true" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanali-dev&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=raihanali-dev&show_icons=true&theme=radical&hide_border=true"
+width="55%"
+/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/raihanali-dev/raihanali-dev/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com?user=raihanali-dev&theme=radical&hide_border=true&background=0D1117"
+width="85%"
+/>
+
+<br><br><br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=raihanali-dev&theme=react-dark&hide_border=true&area=true"
+width="100%"
+/>
 
 </div>
 
