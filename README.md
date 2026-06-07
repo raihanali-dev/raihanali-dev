@@ -6,7 +6,7 @@
 Building projects at the intersection of AI, MLops, and impactful engineering.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/raihanali/raihanali/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb/) • [Email](mailto:raihanali73377@gmail.com) • Exploring new horizons
