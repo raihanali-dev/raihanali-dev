@@ -32,9 +32,6 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 ➜ Interested in Robotics, Automation & next-gen technology  
 ➜ Turning ideas into projects — one commit at a time
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4500&pause=2000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Late-night+ideas%2C+early-morning+bugs.;Turning+ideas+into+code%2C+one+bug+at+a+time." />
-</p>
 
 ═════════════════════════════════════════════════════════════════════════════════════
 
