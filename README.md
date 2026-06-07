@@ -131,11 +131,7 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 ═════════════════════════════════════════════════════════════════════════════════════
 <!-- ================= CONNECT WITH ME ================= -->
 
-<div align="center">
-
-## ❤️ Connect With Me
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=8B0000&text=Code%20•%20Create%20•%20Innovate&fontColor=ffffff&fontSize=30"/>
 
 <a href="https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
