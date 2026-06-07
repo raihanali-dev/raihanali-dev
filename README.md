@@ -146,13 +146,13 @@ width="100%"
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/sk-raihan-ali-2a123b2bb">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <img width="15"/>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/raihanali-dev">
   <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
