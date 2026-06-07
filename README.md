@@ -109,7 +109,7 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 
 ═════════════════════════════════════════════════════════════════════════════════════
 
-# ✎ CODE PLAYGROUND ᯓ★
+# ✎ Code playground ᯓ★
 
 
 <p align="center">
@@ -117,11 +117,7 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=900&lines=Late-night+ideas%2C+early-morning+bugs.;Turning+ideas+into+code%2C+one+bug+at+a+time.;Powered+by+caffeine+and+curiosity.;Debugging+is+my+cardio.;404%3A+Sleep+Not+Found.;Building+cool+things+one+commit+at+a+time." />
-</p>
-
-<p align="center">
-  ✨ ⚡ 🚀 💻 ☕ 🧠 🔥 🎮 🌙 ✨
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4500&pause=2000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Late-night+ideas%2C+early-morning+bugs.;Turning+ideas+into+code%2C+one+bug+at+a+time." />
 </p>
 
 <p align="center">
