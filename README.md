@@ -146,7 +146,7 @@ width="100%"
 
 <div align="center">
 
-<a href="www.linkedin.com/in/sk-raihan-ali-2a123b2bb">
+<a href="https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
