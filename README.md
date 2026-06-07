@@ -109,24 +109,27 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 
 ═════════════════════════════════════════════════════════════════════════════════════
 
-# ✎ Code playground ᯓ★
+<!-- ================= GITHUB ANALYTICS ================= -->
 
+# ✎  📊 GitHub Analytics ᯓ★
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24,30&section=header&text=🎮%20Code%20Playground&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4500&pause=2000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Late-night+ideas%2C+early-morning+bugs.;Turning+ideas+into+code%2C+one+bug+at+a+time." />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=raihanali-dev&show_icons=true&theme=radical&hide_border=true" width="48%"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanali-dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanali-dev&theme=radical&hide_border=true" width="48%"/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=footer"/>
-</p>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanali-dev&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/raihanali-dev/raihanali-dev/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
 
 ═════════════════════════════════════════════════════════════════════════════════════
 # ✎ Connect With Me ᯓ★
