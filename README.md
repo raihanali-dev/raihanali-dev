@@ -129,49 +129,49 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 </p>
 
 ═════════════════════════════════════════════════════════════════════════════════════
-⚡ Connect & Collaborate ⚡
+<!-- ================= CONNECT & COLLABORATE ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=gradient&customColorList=0,1,2,3&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&customColorList=1,2,3,4&text=⚡%20Connect%20%26%20Collaborate%20⚡&fontSize=34&fontColor=FFFFFF&animation=fadeIn"/>
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="70"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/raihanali-dev">
-    <img src="https://skillicons.dev/icons?i=github" height="60" />
+    <img src="https://skillicons.dev/icons?i=github" height="70"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/re1cor3">
-    <img src="https://skillicons.dev/icons?i=instagram" height="60" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="70"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=discord" height="60" />
+    <img src="https://skillicons.dev/icons?i=discord" height="70"/>
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <b>⚡ Open to collaboration • Projects • Tech Discussions ⚡</b>
+  <b>⚡ Open to Collaboration • Projects • Open Source • Tech Discussions ⚡</b>
 </p>
 
 <br>
 
 <p align="center">
-  <img width="95%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=1,2,3,0&section=footer"/>
+  <img width="95%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=4,3,2,1&section=footer"/>
 </p>
+
+<!-- ================= END ================= -->
+
 ═════════════════════════════════════════════════════════════════════════════════════
 
 # ✎ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
