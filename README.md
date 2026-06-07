@@ -26,6 +26,10 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
   𝘴𝘤𝘢𝘭𝘦();  
 }
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=MLOps+%7C+LLMs+%7C+Scalable+Systems;Cloud+Infra+%7C+AI+Deployment+%7C+Open+Source;Generative+AI+%7C+Data+Engineering+%7C+SQL+Databases;NoSQL+%7C+Vector+DBs+%7C+Data+Lakes" />
+</p>
+
 ➜ AI/ML enthusiast exploring intelligent systems & MLops  
 ➜ Building impactful software with clean design & futuristic thinking  
 ➜ Interested in Robotics, Automation & next-gen technology  
