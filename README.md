@@ -129,38 +129,49 @@ Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b
 </p>
 
 ═════════════════════════════════════════════════════════════════════════════════════
-<!-- CONNECT WITH ME -->
+⚡ Connect & Collaborate ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=gradient&customColorList=0,2,3,5,20,24,30&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=gradient&customColorList=0,1,2,3&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
   </a>
-  
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/raihanali-dev">
-    <img src="https://skillicons.dev/icons?i=github" height="55" />
+    <img src="https://skillicons.dev/icons?i=github" height="60" />
   </a>
-  
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/re1cor3">
-    <img src="https://skillicons.dev/icons?i=instagram" height="55" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="60" />
   </a>
-  
-  <a href="https://discord.com/users/re1cor3">
-    <img src="https://skillicons.dev/icons?i=discord" height="55" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=discord" height="60" />
   </a>
 </p>
+
+<br>
 
 <p align="center">
-  💬 Always open to collaboration, projects, and tech discussions.
+  <b>⚡ Open to collaboration • Projects • Tech Discussions ⚡</b>
 </p>
+
+<br>
 
 <p align="center">
-  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=0,2,3,5,20,24,30&section=footer"/>
+  <img width="95%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=1,2,3,0&section=footer"/>
 </p>
-
 ═════════════════════════════════════════════════════════════════════════════════════
 
 # ✎ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
