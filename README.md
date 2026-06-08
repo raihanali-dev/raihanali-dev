@@ -9,7 +9,7 @@
 </p>
 
 
-Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb/) • [Email](mailto:raihanali73377@gmail.com) • Exploring new horizons
+Let’s connect: ⚡ [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2a123b2bb/) • [Email](mailto:raihanali73377@gmail.com) • ⚡ Exploring new horizons
 
 </div>
 
