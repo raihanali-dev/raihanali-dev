@@ -40,7 +40,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 ═════════════════════════════════════════════════════════════════════════════════════
 
-# ✎ 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
+#  𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
 
 → Showcasing projects that blend creativity, automation, and practical problem-solving.
 
