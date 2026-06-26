@@ -33,7 +33,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 <hr>
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28">  𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,tensorflow,pytorch" />
@@ -148,7 +148,7 @@ width="100%"
 
 <hr>
 
-# <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="28"> 𝑴𝒚 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑺𝒑𝒂𝒄𝒆 ᯓ★
+#  𝑴𝒚 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑺𝒑𝒂𝒄𝒆 ᯓ★
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=gradient&customColorList=0,2,3,5,20,24,30&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff"/>
@@ -193,7 +193,7 @@ width="100%"
 
 <hr>
 
-# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32"> 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
+# <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="32"> 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
 
 - AI & Machine Learning  
 - MLops & Intelligent Systems  
