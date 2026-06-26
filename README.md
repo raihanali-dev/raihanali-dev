@@ -15,7 +15,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 <hr>
 
-# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="28"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
 
 ➜ 𝘸𝘩𝘪𝘭𝘦(𝘢𝘭𝘪𝘷𝘦){  
   𝘤𝘰𝘥𝘦();  
@@ -62,7 +62,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 <hr>
 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 • 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 • 𝑪𝒓𝒆𝒅𝒆𝒏𝒕𝒊𝒂𝒍𝒔 ᯓ★
+# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="28"> 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 • 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 • 𝑪𝒓𝒆𝒅𝒆𝒏𝒕𝒊𝒂𝒍𝒔 ᯓ★
 
 > *A curated collection of verified certifications reflecting my continuous learning journey across Software Engineering, Artificial Intelligence, Machine Learning, and Professional Development.*
 
@@ -115,6 +115,10 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 🔹 **Human Values and Professional Ethics**
 📜 **[Credential](https://www.udemy.com/certificate/UC-23aabd26-001a-4b7b-86e1-1c8084a721a4/)**
+
+## ✨ 𝑩𝒆𝒚𝒐𝒏𝒅 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔
+
+> *Certificates validate learning, but real growth comes from applying knowledge. I'm passionate about transforming concepts into real-world solutions through projects, open-source contributions, and continuous innovation. This journey has only just begun.*
 
 <hr>
 
