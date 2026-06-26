@@ -61,51 +61,6 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 ═════════════════════════════════════════════════════════════════════════════════════
 <hr>
 
-# ✎ 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 ᯓ★
-
-## 🚀 Technical Certifications
-
-🔹 **C Programming For Beginners – Master the C Language**  
-📜 [View Certificate](https://www.udemy.com/certificate/UC-0db5bfc6-bb34-4043-a9e6-f90c85bd07a2/)
-
-🔹 **The Ultimate Python Bootcamp: Learn by Building 50 Projects**  
-📜 [View Certificate](https://www.udemy.com/certificate/UC-2da83c85-4dfb-425f-9234-2f36e4f31310/)
-
-🔹 **Java Programming: Learn Core Java and Improve Java Skills**  
-📜 [View Certificate](https://www.udemy.com/certificate/UC-3ea444db-57db-48b0-96bd-d39895c64e2c/)
-
-🔹 **Complete Web Development Course**  
-📜 [View Certificate](https://www.udemy.com/certificate/UC-b8d52578-4a3f-43da-88a6-99d5a956b2e5/)
-
-🔹 **Node.js – Beginner to Advanced Course with Projects**  
-📜 [View Certificate](https://www.udemy.com/certificate/UC-cf6536ed-34fd-4b26-8907-38dda0d2fa08/)
-
-<br>
-
-## 🌟 Professional Development & Soft Skills
-
-🔹 **Soft Skills: The 11 Essential Career Soft Skills**  
-📜 [View Certificate](https://www.udemy.com/certificate/UC-55f95849-9015-4bce-b34f-09ed1ba45ac7/)
-
-🔹 **Human Values and Professional Ethics**  
-📜 [View Certificate](https://www.udemy.com/certificate/UC-23aabd26-001a-4b7b-86e1-1c8084a721a4/)
-
-<br>
-
-### 🏅 Skills Demonstrated
-
-`C Programming` • `Python` • `Java` • `Web Development` • `Node.js`
-• `Problem Solving` • `Professional Ethics`
-• `Communication Skills` • `Teamwork`
-• `Career Development`
-
-<p align="center">
-<i>Continuously learning, building projects, and improving both technical and professional skills.</i>
-</p>
-
-<hr>
-
-
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 • 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 • 𝑪𝒓𝒆𝒅𝒆𝒏𝒕𝒊𝒂𝒍𝒔 ✦
 
