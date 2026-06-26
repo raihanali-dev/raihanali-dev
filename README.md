@@ -41,7 +41,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 <hr>
 
-#  𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
+# <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28"> 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
 
 → Showcasing projects that blend creativity, automation, and practical problem-solving.
 
