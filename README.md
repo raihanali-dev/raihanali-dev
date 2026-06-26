@@ -193,7 +193,7 @@ width="100%"
 
 <hr>
 
-# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="38"> 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
+# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32"> 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
 
 - AI & Machine Learning  
 - MLops & Intelligent Systems  
