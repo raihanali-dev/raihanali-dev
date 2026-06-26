@@ -148,7 +148,7 @@ width="100%"
 
 <hr>
 
-# ✎ 𝑴𝒚 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑺𝒑𝒂𝒄𝒆 ᯓ★
+# <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="28"> 𝑴𝒚 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑺𝒑𝒂𝒄𝒆 ᯓ★
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=gradient&customColorList=0,2,3,5,20,24,30&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff"/>
