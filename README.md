@@ -105,6 +105,62 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 <hr>
 
+
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 • 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 • 𝑪𝒓𝒆𝒅𝒆𝒏𝒕𝒊𝒂𝒍𝒔 ✦
+
+> *A curated collection of verified certifications reflecting my continuous learning journey across Software Engineering, Artificial Intelligence, Machine Learning, and Professional Development.*
+
+---
+
+## 🚀 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑨𝒓𝒔𝒆𝒏𝒂𝒍
+
+🔹 **C Programming For Beginners – Master the C Language**
+📜 **[Credential](https://www.udemy.com/certificate/UC-0db5bfc6-bb34-4043-a9e6-f90c85bd07a2/)**
+
+🔹 **Java Programming: Learn Core Java and Improve Java Skills**
+📜 **[Credential](https://www.udemy.com/certificate/UC-3ea444db-57db-48b0-96bd-d39895c64e2c/)**
+
+🔹 **The Ultimate Python Bootcamp: Learn by Building 50 Projects**
+📜 **[Credential](https://www.udemy.com/certificate/UC-2da83c85-4dfb-425f-9234-2f36e4f31310/)**
+
+🔹 **Complete Web Development Course**
+📜 **[Credential](https://www.udemy.com/certificate/UC-b8d52578-4a3f-43da-88a6-99d5a956b2e5/)**
+
+🔹 **Node.js – Beginner to Advanced Course with Projects**
+📜 **[Credential](https://www.udemy.com/certificate/UC-cf6536ed-34fd-4b26-8907-38dda0d2fa08/)**
+
+🔹 **React JS Masterclass: Zero To Job Ready With 10 Projects**
+📜 **[Credential](https://www.udemy.com/certificate/UC-ddd8bc49-a41e-482f-a48f-947bfe7e4236/)**
+
+---
+
+## 🧠 𝑨𝑰 • 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 • 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝑺𝒚𝒔𝒕𝒆𝒎𝒔
+
+> *Focused on Generative AI, Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Engineering, Data Science, and Machine Learning.*
+
+🔹 **Machine Learning for Absolute Beginners – Level 1**
+📜 **[Credential](https://www.udemy.com/certificate/UC-031182ba-f838-43b2-b662-ea28ed34b80e/)**
+
+🔹 **Machine Learning, Data Science & AI Engineering with Python**
+📜 **[Credential](https://www.udemy.com/certificate/UC-53e85cee-21eb-4ba3-884d-f949f3cbf083/)**
+
+🔹 **Full Stack Generative & Agentic AI with Python**
+📜 **[Credential](https://www.udemy.com/certificate/UC-3aeb7126-b236-4884-b56c-b7d1cdf98b2f/)**
+
+🔹 **AI Engineer Core Track: LLM Engineering, RAG, QLoRA & AI Agents**
+📜 **[Credential](https://www.udemy.com/certificate/UC-ce858280-2498-4bb4-8347-7c6b1edc95eb/)**
+
+---
+
+## 👑 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑬𝒙𝒄𝒆𝒍𝒍𝒆𝒏𝒄𝒆 & 𝑳𝒆𝒂𝒅𝒆𝒓𝒔𝒉𝒊𝒑
+
+🔹 **Soft Skills: The 11 Essential Career Soft Skills**
+📜 **[Credential](https://www.udemy.com/certificate/UC-55f95849-9015-4bce-b34f-09ed1ba45ac7/)**
+
+🔹 **Human Values and Professional Ethics**
+📜 **[Credential](https://www.udemy.com/certificate/UC-23aabd26-001a-4b7b-86e1-1c8084a721a4/)**
+
 ═════════════════════════════════════════════════════════════════════════════════════
 
 # ✎ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔 ᯓ★
