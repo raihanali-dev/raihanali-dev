@@ -118,7 +118,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 <hr>
 
-# ✎ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔 ᯓ★
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="32"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔 ᯓ★
 
 
 <div align="center">
@@ -193,7 +193,7 @@ width="100%"
 
 <hr>
 
-# <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="32"> 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
+# <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30"> 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
 
 - AI & Machine Learning  
 - MLops & Intelligent Systems  
