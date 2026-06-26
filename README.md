@@ -14,6 +14,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 </div>
 
 <hr>
+
 #  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ᯓ★
 
 ➜ 𝘸𝘩𝘪𝘭𝘦(𝘢𝘭𝘪𝘷𝘦){  
@@ -30,7 +31,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 ➜ Turning ideas into projects — one commit at a time
 
 
-═════════════════════════════════════════════════════════════════════════════════════
+<hr>
 
 # ✎ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
 
@@ -38,7 +39,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,tensorflow,pytorch" />
 </div>
 
-═════════════════════════════════════════════════════════════════════════════════════
+<hr>
 
 #  𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
 
@@ -58,7 +59,6 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 🔹 Personal Portfolio & Web Development Experiments
 
 
-═════════════════════════════════════════════════════════════════════════════════════
 <hr>
 
 
@@ -116,7 +116,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 🔹 **Human Values and Professional Ethics**
 📜 **[Credential](https://www.udemy.com/certificate/UC-23aabd26-001a-4b7b-86e1-1c8084a721a4/)**
 
-═════════════════════════════════════════════════════════════════════════════════════
+<hr>
 
 # ✎ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔 ᯓ★
 
@@ -146,7 +146,8 @@ width="100%"
 
 ---
 
-═════════════════════════════════════════════════════════════════════════════════════
+<hr>
+
 # ✎ 𝑴𝒚 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑺𝒑𝒂𝒄𝒆 ᯓ★
 
 <p align="center">
@@ -189,8 +190,8 @@ width="100%"
   <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=0,2,3,5,20,24,30&section=footer"/>
 </p>
 
-════════════════════════════════════════════════════════════════════════════════════ 
 
+<hr>
 
 # ✎ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 ᯓ★
 
@@ -200,7 +201,7 @@ width="100%"
 - Full-Stack Development  
 - Cloud & Automation  
 
-═════════════════════════════════════════════════════════════════════════════════════
+<hr>
 
 <div align="center">
 
