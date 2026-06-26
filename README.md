@@ -118,7 +118,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 <hr>
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="32"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔 ᯓ★
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="38"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔 ᯓ★
 
 
 <div align="center">
