@@ -33,7 +33,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 <hr>
 
-#  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
+# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="28">  𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ᯓ★
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,tensorflow,pytorch" />
@@ -41,7 +41,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 
 <hr>
 
-# <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28"> 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
+# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ᯓ★
 
 → Showcasing projects that blend creativity, automation, and practical problem-solving.
 
@@ -62,7 +62,7 @@ Let’s connect: ⚡ •  [LinkedIn](https://www.linkedin.com/in/sk-raihan-ali-2
 <hr>
 
 
-# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="28"> 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 • 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 • 𝑪𝒓𝒆𝒅𝒆𝒏𝒕𝒊𝒂𝒍𝒔 ᯓ★
+#  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28"> 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 • 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 • 𝑪𝒓𝒆𝒅𝒆𝒏𝒕𝒊𝒂𝒍𝒔 ᯓ★
 
 > *A curated collection of verified certifications reflecting my continuous learning journey across Software Engineering, Artificial Intelligence, Machine Learning, and Professional Development.*
 
