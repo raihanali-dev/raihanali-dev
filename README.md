@@ -172,9 +172,6 @@ width="100%"
 
 <img width="15"/>
 
-<a href="https://instagram.com/re1cor3">
-  <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-</a>
 
 <img width="15"/>
 
